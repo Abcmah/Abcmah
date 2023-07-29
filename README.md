@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abcmah
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Web/Web App programming
-- 💞️ I’m looking to collaborate on Anyone
 - 📫 How to reach me bismarquemomanyi@gmail.com
 
 <!---
