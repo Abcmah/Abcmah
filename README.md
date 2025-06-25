@@ -1,56 +1,18 @@
-# 👋 Hello World! I'm Bismarck
+# 💫 About Me:
+<br>I'm a software developer with a strong interest in building reliable, scalable, and maintainable solutions. I enjoy working across the stack and have experience with both backend and frontend technologies. My focus is on writing clean code, understanding the "why" behind every solution, and continuously improving through learning and collaboration.<br><br>Whether working independently or as part of a team, I value clarity, simplicity, and purpose-driven development. I'm always open to contributing to meaningful projects and learning from other developers.
 
-Hey there, fellow tech aficionado! 🖥️ Welcome to my digital universe, where creativity meets code, and innovation is the name of the game. I'm a passionate web and app developer, constantly pushing boundaries and turning imaginative concepts into interactive realities. 🚀
 
-## 🌐 Web Developer / Web App Extraordinaire
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Bismarck Nyaboe Momanyi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bismarck Nyaboe Momanyi) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Bismarque-Momanyi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/b__momanyi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bismarquemomanyi@gmail.com) 
 
-I craft the web's intricate tapestry, weaving together HTML, CSS, and JavaScript to build immersive, responsive, and user-friendly websites. From sleek landing pages to robust e-commerce platforms, I'm here to turn your web dreams into reality.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abcmah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abcmah&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abcmah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💡 Tech Enthusiast
+---
+[![](https://visitcount.itsvg.in/api?id=Abcmah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I'm not just in it for the code. I breathe, sleep, and dream tech. Whether it's the latest programming languages, cutting-edge frameworks, or the hottest tech trends, I'm on a never-ending quest for knowledge and innovation.
-
-## 🌈 A Journey Through Innovation
-
-Join me on a journey through a landscape of innovation, where each line of code is a brushstroke on the canvas of the digital future. From the elegant dance of HTML and CSS to the logic and power of JavaScript, witness the magic unfold
-
-## 📫 Let's Connect
-
-Feel free to reach out to me for collaboration, inquiries, or just a friendly chat:
-
-<!-- Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/bismarque">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  </a>
-</p>
-
-## GitHub Statistics
-
-![Cowan Wekesa's GitHub statistics.](https://github-readme-stats.vercel.app/api?username=Abcmah&show_icons=true&theme=gruvbox)
-
-![Matthew Sanabria's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abcmah&layout=compact&theme=gruvbox)
-
-## 🔧 Skills and Expertise
-
-- **Front-End Development:** ReactJS, HTML5, CSS3, JavaScript, TypeScript, Sass
-- **Back-End Development:** Python, Laravel, Node.js, Django, MySQL, API Development
-- **Database Management:** MySQL, PostgreSQL
-- **Web Hosting and Domain Management**
-- **Programming Languages:** JavaScript, Python, C, PHP
-
-## 💼 Professional Highlights
-
-- 🚀 Over 2 years of experience in web development
-- 💡 Successfully integrated payment systems such as M-PESA,into online subscription models and e-commerce platforms.
-- 🎮 Actively involved in building a cutting-edge game engine for immersive gaming experiences.
-- 📚 Profound understanding of compiler theory, providing expertise in compilation, assembling, and linking processes.
-- 🌐 Domain management and web hosting services to ensure seamless project deployment.
-
-## 🚀 Let's Collaborate!
-
-Whether you're a fellow developer, a curious enthusiast, or a potential collaborator, your presence here is invaluable. Feel free to explore, fork, contribute, or simply share your thoughts. Together, we can create something extraordinary.
-
-Let's embark on this exciting journey, where lines of code become the building blocks of dreams. Let's craft the future, one commit at a time. 🌟
-
-_Inspired by innovation, driven by passion._
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
